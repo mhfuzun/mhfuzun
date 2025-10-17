@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I’m an electronics and computer engineering student working on RISC-V processor design and system-level architecture.
+
+- 💻 Designing Out-of-Order RISC-V cores  
+- 🧠 Interested in hardware/software co-design
+
+# My Project:
+- Dual Issue Out Of Order Core: [YTS_SIRADISI_Teknofest2024](https://github.com/YTS-TASARIM/YTS_SIRADISI_Teknofest2024)
+- C++ Custome Chess: [CSE-211-Custom-Chess](https://github.com/mhfuzun/CSE-211-Custom-Chess)
+- SystemVerilog FIFO: [systemverilog-lifo](https://github.com/mhfuzun/systemverilog-lifo)
+
 <!--
 **mhfuzun/mhfuzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
