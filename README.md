@@ -8,7 +8,7 @@ I’m an electronics and computer engineering student working on RISC-V processo
 ### My Projects:
 - Dual Issue Out Of Order Core: [YTS_SIRADISI_Teknofest2024](https://github.com/YTS-TASARIM/YTS_SIRADISI_Teknofest2024)
 - C++ Custome Chess: [CSE-211-Custom-Chess](https://github.com/mhfuzun/CSE-211-Custom-Chess)
-- SystemVerilog FIFO: [systemverilog-lifo](https://github.com/mhfuzun/systemverilog-lifo)
+- SystemVerilog LIFO: [systemverilog-lifo](https://github.com/mhfuzun/systemverilog-lifo)
 
 <!--
 **mhfuzun/mhfuzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
